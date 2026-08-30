@@ -1,0 +1,25 @@
+Origin: https://droidian-S20FE.github.io/adaptation-samsung-s20fe
+Label: Samsung S20 FE Droidian
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: arm64
+Components: main
+Description: Droidian adaptation packages for Samsung Galaxy S20 FE
+Date: Sun, 30 Aug 2026 12:40:06 +0000
+MD5Sum:
+ 6d94a4dede8e9c8caeb7dddcf0b97c1d              285 Release
+ f3e916a8ca132c95ed1a4edb6db4be73             1094 main/binary-arm64/Packages
+ 76d2ac171e63ff809102bbb1f3f64565              515 main/binary-arm64/Packages.gz
+SHA1:
+ 70a7c578a563311a6163ceb0615e98bdd40582c4              285 Release
+ b8b90b81c04fb3f9466aa632dfb812ec79a21fff             1094 main/binary-arm64/Packages
+ 6981d38a64f067a35e215418c72399bf14a81a55              515 main/binary-arm64/Packages.gz
+SHA256:
+ 35c511d050b187519cc5cf911c5e9180fe7666a4ccf129adb3350749376135df              285 Release
+ c68c96745545ede8ccc253121fa7df7dbbeee89fd7eb239a469585be590cf7ea             1094 main/binary-arm64/Packages
+ 239f45fd1686231c3eb2fa54f891fd22c1a562b864c3c228fdca12443dabb8a6              515 main/binary-arm64/Packages.gz
+SHA512:
+ 692a684d3850b7a76c4a3d47f8e5b03d406f2c79a51317d02c78698efbec00d9916dc7b1b326afcf3a2baa074e54d5c06ed7a90de22a4e1896c48614b69f56c2              285 Release
+ b6e75dca614dd1a33c04fe3cf11436a75d17bbccab4e55f2475208b7c4885fb4b72a7f0b1bd1499294d65f530f5064b5d13b170c7a2dbb008ebd5da3c64343cb             1094 main/binary-arm64/Packages
+ f375eefc35b0093f6341bb087aacfcb811e15ae624e65405b1fc6527eebc732906142ff73f88da66345efb02eb2d01789f6d80e9b231188ae81ec5cc7a79ad5d              515 main/binary-arm64/Packages.gz
