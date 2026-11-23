@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://droidian-S20FE.github.io/adaptation-samsung-s20fe
+Label: Samsung S20 FE Droidian
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: arm64
+Components: main
+Description: Droidian adaptation packages for Samsung Galaxy S20 FE
+Date: Mon, 23 Nov 2026 15:27:32 +0000
+MD5Sum:
+ e64c316822711738975f59f64a8d4fbb              285 Release
+ 9223ea7965767487223e5bb53f9faf2c             1094 main/binary-arm64/Packages
+ 11376e30d0557fe07aab3ea9437bde26              517 main/binary-arm64/Packages.gz
+SHA1:
+ a2b31e697d0909520acbf2f6124099b68177a31c              285 Release
+ 04d84b1acd65054d215e4557a2501b4ad02911f8             1094 main/binary-arm64/Packages
+ 06c69db658ff30cefcd1757fa7eac0a124de8480              517 main/binary-arm64/Packages.gz
+SHA256:
+ ca16a17fb4d4ca243983c546665c3202ac51a1b870c239c13e4b9ee0e64e728f              285 Release
+ f4ea43bc2654ff8f4056efdac65f545a33a6b6309ffa8d7516fb47a9690ca86e             1094 main/binary-arm64/Packages
+ e9589af3e8b5fc390ee70ec9a14dbcafb4b20852114d0a77a405894cb6a95727              517 main/binary-arm64/Packages.gz
+SHA512:
+ ad27437301b3c2bd694713f7dd94e23a5b6a1b3c2022cb65f322fc167d8c074356692e1cad2b7a869c527c1d2aa9892207a1b78066a7d098d81ad7dae72d6b17              285 Release
+ a70f4f76bd34f88b2d9e8566c6394bbc011bb6c27f7bf65d57f30b9f57cca6978195298da7d897d2011b3f7883739989502bd21bd16eb32af03ff2f35e8b8c1c             1094 main/binary-arm64/Packages
+ f22d06a4402fae560e9f37a3f2298bea4f1557598450566e677693bef1b8818e13954acc09152964d643b33c45f8ffadbff0c03f711d3234851f3b477400cad6              517 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1eOwtLCgwbh027RqqbDh1XAkof4FAmsEW2QACgkQqbDh1XAk
+of7Xrg//Wl8OAhYaTcLyQLgFwGudtl363EXxFhkiBYiXHdFpzI8Kvoocrg2a6Myn
+0tcXShA3el2YirAIcJoPtzRiBTLvGnch7t2w/xgqKUip9Z9Dc/CB9RgtUa+8rmFY
+3w/SjsqPZ1+RYviIN1/0C2y9YjxyoQgh2mr8Kip+stQ8ugzVFrP7/sHuxa1Lp32N
+B9WjaeR29kpLlZqOcYs7fjrGqMmQuJP/0/mb/S1oGNQegepLp8lV3vil6EYwHLQZ
+MWuf/sGD+K3wLMjeibceA9e2NJFB0kut3SkUr8gHZMreqjvO/ReIHoiX0i+EUnAF
+TBTkXatTF1osyEmKG7HDh9Dj3ZKFmTGHdFOSv3cpwACngKFiyF7/8OOq3NpX/XvX
+P7uvK5+pl5+mSIFg5iWyoAipDpF6tRkx4WiIAZ1QDpOWbB+uFKIErjj10vDBmfzp
+cDHghrOK7xk8I9KpcqcCqPwTPgBgfbrv5/kqLjOr77e5BC8etKT+RUesfNE4cA0f
++uHQAlEri/3xghNxwyfOwyLzV+WfX6pEuThim5lO34OZ34dRNhQXsm9CNR880Ujo
+D3lr44xlMGuJv4V5eEbaoCJhNjRKQDTmOW+P+ToSYDXc8F6SHViMxs4s/TkhsX/e
+q81bZYS03JkIBtSuy+cXVV3av2R194JtGFS03Gn2YEWMCFc04/g=
+=OfXK
+-----END PGP SIGNATURE-----
